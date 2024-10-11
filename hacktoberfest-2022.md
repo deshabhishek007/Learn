@@ -10,4 +10,5 @@ Use the table below and add your GitHub username and the URL to the ticket your 
 |-----------------|-----------|
 | @psykro         | https://github.com/WordPress/Learn/issues/#1028 |
 | @vagelisp       | https://github.com/WordPress/Learn/issues/1023  |
+| @vagelisp       | https://github.com/WordPress/Learn/issues/2763  |
 
